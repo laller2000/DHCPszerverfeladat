@@ -1,0 +1,11 @@
+C:\Users\lalle\source\repos\DHCPSzerver\DHCPSzerver\bin\Debug\dhcp.csv
+C:\Users\lalle\source\repos\DHCPSzerver\DHCPSzerver\bin\Debug\excluded.csv
+C:\Users\lalle\source\repos\DHCPSzerver\DHCPSzerver\bin\Debug\reserved.csv
+C:\Users\lalle\source\repos\DHCPSzerver\DHCPSzerver\bin\Debug\test.csv
+C:\Users\lalle\source\repos\DHCPSzerver\DHCPSzerver\bin\Debug\DHCPSzerver.exe.config
+C:\Users\lalle\source\repos\DHCPSzerver\DHCPSzerver\bin\Debug\DHCPSzerver.exe
+C:\Users\lalle\source\repos\DHCPSzerver\DHCPSzerver\bin\Debug\DHCPSzerver.pdb
+C:\Users\lalle\source\repos\DHCPSzerver\DHCPSzerver\obj\Debug\DHCPSzerver.csprojAssemblyReference.cache
+C:\Users\lalle\source\repos\DHCPSzerver\DHCPSzerver\obj\Debug\DHCPSzerver.csproj.CoreCompileInputs.cache
+C:\Users\lalle\source\repos\DHCPSzerver\DHCPSzerver\obj\Debug\DHCPSzerver.exe
+C:\Users\lalle\source\repos\DHCPSzerver\DHCPSzerver\obj\Debug\DHCPSzerver.pdb

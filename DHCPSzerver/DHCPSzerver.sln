@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHCPSzerver", "DHCPSzerver\DHCPSzerver.csproj", "{3D66C3B6-D030-49D2-8E20-4BF5CD3472EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D66C3B6-D030-49D2-8E20-4BF5CD3472EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D66C3B6-D030-49D2-8E20-4BF5CD3472EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D66C3B6-D030-49D2-8E20-4BF5CD3472EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D66C3B6-D030-49D2-8E20-4BF5CD3472EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32FAB43C-B434-4582-933E-3C76167148BE}
+	EndGlobalSection
+EndGlobal
